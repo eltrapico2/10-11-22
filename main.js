@@ -14,12 +14,13 @@
 //   alert(result2);
 // };
 
-// function myFunction (num1, num2){
-//   let result = num1 + num2;
-//   return result;
+//BASIC FUNCTION DECLARATION w/ parameters and return
+// function myFunction2 (num1, num2){
+//   let result2 = num1 + num2;
+//   return (result2);
 // }
 
-// alert(myFunction(28,15));
+// alert(myFunction2 (28,15));
 
 
 
